@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/sources/models/baolong/texture.meta
 guid: d57d4ddfcf9aca440b8bb28e068c2c68
+=======
+guid: a8442c5640b5c624795977966bbc02aa
+>>>>>>> 9c1bbde4cd751838e7f187774c5b4d9152cb373f:Assets/sources.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
