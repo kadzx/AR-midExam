@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QVQwZkVGZi8vLy8vQUFBQUtIMmtUb1hjTEVNV28zVkNjcXBjc1RZVmVBUm04STE4QklJYUpIN05WRkVHUU9Ici9mY3I2SnlxVGRSdUpzcUxtTXhPblhQYnB0aUpFSFBwOFZWNXg1dERCSkt2Y1NoellUYkJvT0tkcGZiVEJwcUVUMXdUZzJsZUluZlpramZVRWxVYVErUVZJVEo0RityOEMrdXRRaEozTk5HeDVDdkVXUEcxYVdMWXJBUlN0eWhPVTQxV0YxSzJWR21kQ2w0MTB3RldKeDlMbFplMGU3ODVhKzhyc0dLTnBPRzZCYnZEWUVaTDBkcUhqTnA5MC81SjVJcHo2eGdCczJTakFLVlpGcHlxSmdwMkpyblNON3ZxNTRDZmJNOWJWUE9GTkl3OEJoQ0JtUkxpN213UXgzeHpFS01jb3JyYlhGaHBIZ2FYaTJOejNSa0llYlJVUVB6UWVkK2dDRVRLdnFOcE5VL01uaXVQVHFRUjBudlQ=
+    vuforiaLicenseKey: AVyIWh3/////AAABmYigB/k9vENYp3nX7NVB8QxQ6XGG6oty/FGoTnrnVeOSvSky33wHFUAsAL827QN01PJTLDmW81M5e+KA1Yw5R6imBFI1UHazsVNx+fH867vPNH23DX8gYrkwtACxl5WYvYKsNWtr8fvizjhigE21Q3TJzSTsO9lr2zGgIpZ3tZxrC/64jG+CVRTJQzhcAB70hrkLFsjTubAiD0NqmmGiSbtyagrLKXlaTLPiSAxw3wmURbtmfJHc8nYtGvivGkB/j3c+/kecqVlPp8cdpraJmXAw7mw5+X3OdUWzReP0cyIPKWmiXWv9Sxhq0hBDhzHWKDa7v4wZ0U9OHHBEqHxpOv/iRpSw6wkMe3XgDlut2tX3
+    ufoLicenseKey: QVhwd3Mxci8vLy8vQUFBQUtEWHl0akpXcDBSSmpieWU2dHZ4UVFkSEVFMDN1WTZzZzdBZGs4S09KdmcwYmVZc3Z5UFcreDlNcDdGaVh4dEJia0YzTGgzTWxTUndqejVGbHRrL0p0S3M5NXVqU2xLRzNkK1F5RTdXUGVsakxzdStqcVFFUmVValgvcERuV1h0Mk5sNGdPL3ZUU1N4S1dtUDVBU1IxZGZ6Um03M01OQ0FPRHN5aHNsd3AveklXOElpWDFzKzlPVWhlRGVmZU1HL0lDeTlyTXBJMGlPMllid0dUUnVHS3JZMm01cEd3MlJ5eG1tR2RxYmMrOWtlTFJUM3lxU1ZNMFRvU0diVGExWDA1cHJhVVpFWUk5akdSRVhGTXBqM01NZi9YZDk4YnBMRjNpYk1uN1NXa0dxY1hDZ1RoOFBvcHlPT0ZEY1RKWERPQ2FBaFd1d295TTFSN1dXT29pSFNUdXl5cmpHY1ZkOUtPZ3BaS01mcE1TbWI=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
@@ -24,7 +24,7 @@ MonoBehaviour:
     shareRecordingsInITunes: 0
     logLevel: 0
     version: 10.27.3
-    eulaAcceptedVersions: '{"Values":["0.0","10.25","10.27"]}'
+    eulaAcceptedVersions: '{"Values":["","0.0","10.25","10.27"]}'
   database:
     disableModelExtraction: 0
   shaders:
@@ -41,7 +41,7 @@ MonoBehaviour:
     unlitShader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
     videoBackgroundEnabled: 1
   deviceTracker:
-    autoStartTracker: 1
+    autoStartTracker: 0
     arcoreRequirement: 1
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0

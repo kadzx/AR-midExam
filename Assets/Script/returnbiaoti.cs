@@ -8,6 +8,6 @@ public class returnbiaoti : MonoBehaviour
     // Start is called before the first frame update
     public void onloginbuttonclick()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 }

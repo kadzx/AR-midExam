@@ -54,6 +54,10 @@ ExportedObj/
 *.mdb.meta
 com.ptc.vuforia.engine-10.27.3.tgz
 com.ptc.vuforia.engine-10.25.4.tgz
+*[Vv]uforia*
+\*[Vv]uforia*
+
+
 
 # Unity3D generated file on crash reports
 sysinfo.txt

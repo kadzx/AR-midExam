@@ -9,9 +9,9 @@ public class biaoti : MonoBehaviour
     // Start is called before the first frame update
 
     
-    public void onloginbuttonclick()
+    public void onloginbuttonclick(int i)
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(i);
     }
 }
 

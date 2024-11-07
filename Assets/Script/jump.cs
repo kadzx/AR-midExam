@@ -18,14 +18,14 @@ public class jump : MonoBehaviour
     }
     public void sandieji()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene("sandieji");
     }
     public void zhuluoji()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene("zhuluoji");
     }
     public void baieji()
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene("baieji");
     }
 }
