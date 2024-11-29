@@ -25,7 +25,8 @@
 
 # Visual Studio cache directory
 .vs/
-
+.vsconfig
+.plastuc/
 # Gradle cache directory
 .gradle/
 
@@ -51,6 +52,12 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+com.ptc.vuforia.engine-10.27.3.tgz
+com.ptc.vuforia.engine-10.25.4.tgz
+*[Vv]uforia*
+\*[Vv]uforia*
+
+
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -70,3 +77,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Packages/packages-lock.json
